@@ -1,3 +1,3 @@
 # git_test
-my first tit hub repo
+my first git hub repo
 Hello Odin!
